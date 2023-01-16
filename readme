@@ -1,0 +1,13 @@
+					Flutter Assignment
+
+
+In the” Let’s create your Account” page every text field should be highlighted in white on tap and the normal border color should be white with 50% opacity.
+
+Upon selecting the “Genres” text field it should show the circular progress indicator and load the data from the  below json 
+
+{"data":{"genres":[{"name":"Jazz"},{"name":"Classical"},{"name":"Rock"},{"name":"Techno"},{"name":"Trance"},{"name":"Metal"},{"name":"Folk"},{"name":"Pop"},{"name":"Hip Hop"},{"name":"Black Metal"},{"name":"Bass"},{"name":"Soul Music"},{"name":"Country Music"},{"name":"Blues"},{"name":"Electronic"},{"name":"Punk Rock"},{"name":"Disco"},{"name":"Pop Rock"},{"name":"Indie Rock"},{"name":"Orchestra"},{"name":"Ambient Music"},{"name":"World Music"},{"name":"Opera"},{"name":"Contemporary"},{"name":"Drum & Bass"},{"name":"Experimental"},{"name":"Death Metal"},{"name":"Synth Pop"},{"name":"Trap"},{"name":"Breakbeat"},{"name":"Dutch Rock"},{"name":"Frenchcore"},{"name":"Gabber"},{"name":"Indorock"},{"name":"Jordaanlied"},{"name":"Levenslied"},{"name":"Nederpop"},{"name":"Palingsound"},{"name":"Ultra"}]}}
+
+Use a font of your own choice.
+Usage of any state management will be an added advantage.
+Push the code to github and attach the build apk and github link while submitting the assignment
+
